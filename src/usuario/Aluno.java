@@ -4,8 +4,8 @@ import java.util.ArrayList;
 
 import interfaces.Notificavel;
 import notificacoes.Notificacao;
-import projetos.Projeto;
-import projetos.Relatorio;
+import projetoss.Projeto;
+import projetoss.Relatorio;
 
 public class Aluno extends Usuario implements Notificavel {
 

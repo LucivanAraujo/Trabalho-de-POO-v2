@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import interfaces.Notificavel;
 import notificacoes.Notificacao;
-import projetos.Projeto;
+import projetoss.Projeto;
 
 public class Coordenador extends Usuario implements Notificavel{
      private String idCoordenador;
